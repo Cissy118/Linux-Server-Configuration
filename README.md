@@ -208,5 +208,5 @@ remove or disable available sites
 http://ubuntuforums.org/showthread.php?t=1692000
 
 ### Other References: 
-Udacity Forum
-Github/stueken
+- Udacity Forum
+- Github/stueken
