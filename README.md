@@ -207,4 +207,6 @@ Reference: - https://www.digitalocean.com/community/tutorials/how-to-secure-post
 remove or disable available sites
 http://ubuntuforums.org/showthread.php?t=1692000
 
-
+### Other References: 
+Udacity Forum
+Github/stueken
