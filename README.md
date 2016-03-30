@@ -199,9 +199,9 @@ $ cd /var/www/catalog/ and $ sudo vim .htaccess
 ##### 11. Install and configure PostgreSQL.
 Reference: - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
 - http://killtheyak.com/use-postgresql-with-django-flask/
-
+```
 @grader $ sudo apt-get install postgresql
-
+```
 
 
 remove or disable available sites
